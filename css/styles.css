@@ -44,3 +44,19 @@ h2{
 .headings{
   margin: 5px;
 }
+.blue-paragraph{
+  font-style: italic;
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+}
+#red-paragraph{
+  color: red;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.translucent-container{
+background-color: white;
+opacity: 0.5;
+width: 50%;
+}
