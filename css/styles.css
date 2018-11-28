@@ -14,6 +14,11 @@ h2{
   text-align: center;
   text-decoration: underline;
   text-decoration-color: yellow;
-  
+  }
 
-}
+  h3{
+    color: #213e6d;
+    font-style: italic;
+    font-family: courier;
+    text-align: center;
+  }
