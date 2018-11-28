@@ -2,6 +2,18 @@ h1{
   color: blue;
   font-family: sans-serif;
   font-weight: bolder;
-  font-size: 20px;
+  font-size: 40px;
   text-align: center;
+}
+
+h2{
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bolder;
+  font-stretch: extra-condensed;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+  
+
 }
