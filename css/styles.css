@@ -34,3 +34,13 @@ h2{
    body{
      background-color: #e5e21d;
    }
+.p-bold{
+  font-weight: bolder;
+}
+.italicized{
+  font-style: italic;
+  padding:35px;
+}
+.headings{
+  margin: 5px;
+}
